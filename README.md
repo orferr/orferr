@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/orferr/assets/main/9ac6fbef-5f71-4a43-9dee-ae7099f4c850.png" alt="MasterHead">
+  <img src="https://github.com/orferr/assets/blob/main/9ac6fbef-5f71-4a43-9dee-ae7099f4c850.png?raw=true" alt="MasterHead" width="100%">
 </p>
 
 <h1 align="center">Hello :D! im Orf</h1>
