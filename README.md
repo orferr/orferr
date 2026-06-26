@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/orferr/assets/main/%D1%8B%D0%B2%D0%B0%D0%B2%D1%8B%D0%B0.png" alt="MasterHead">
+  <img src="https://github.com/orferr/assets/raw/main/%D1%8B%D0%B2%D0%B0%D0%B2%D1%8B%D0%B0.png" alt="MasterHead">
 </p>
 
 <h1 align="center">Hello :D! im Orf</h1>
 <h3 align="center">I am a Back end developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/orferr/assets/main/9ac6fbef-5f71-4a43-9dee-ae7099f4c850.png">
+<img align="right" alt="Coding" width="400" src="https://github.com/orferr/assets/raw/main/9ac6fbef-5f71-4a43-9dee-ae7099f4c850.png">
 
 - 👨‍💻 I’m currently working on [-]()
 
