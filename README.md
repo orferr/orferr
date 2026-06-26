@@ -1,4 +1,4 @@
-[![MasterHead]([file:///C:/Users/orf/Downloads/%D1%8B%D0%B2%D0%B0%D0%B2%D1%8B%D0%B0.png)](https://rishavchanda.io](https://github.com/orferr/assets/blob/main/%D1%8B%D0%B2%D0%B0%D0%B2%D1%8B%D0%B0.png))
+[![MasterHead](https://raw.githubusercontent.com/orferr/assets/main/ИМЯ_ФАЙЛА.png)](https://rishavchanda.io)
 <h1 align="center">Hello :D! im Orf</h1>
 <h3 align="center">I am a Back end developer</h3>
 
